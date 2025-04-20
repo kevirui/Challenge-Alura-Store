@@ -69,6 +69,8 @@ Cada tienda fue evaluada en función de su desempeño en los factores clave menc
 
 
 ### Grabación de uso
+https://github.com/user-attachments/assets/42884475-83bc-4f76-9db5-fcf47f7acc70
+
 
 
 ## ✅ Recomendación
