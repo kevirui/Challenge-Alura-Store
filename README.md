@@ -48,9 +48,32 @@ Cada tienda fue evaluada en función de su desempeño en los factores clave menc
 - `AluraStoreLatam.ipynb`: Notebook de Google Colab con todo el desarrollo del análisis de datos.
 - `base-de-datos-challenge1-latam`: Dataset utilizado **formato CSV**.
 
+## Graficos
+### Ingresos Por tienda
+![Ingresos](https://github.com/user-attachments/assets/3b1cf7a8-f3d4-46d7-9eac-c9f0e4a1988d)
+
+### Ventas por categoría
+![Ventas](https://github.com/user-attachments/assets/afbd6208-8984-4446-a0ff-c6bcc6a24335)
+
+### Calificación promedio de la tienda
+![Calificaciones](https://github.com/user-attachments/assets/c4f8749b-a6ae-4bf7-bf50-8f2778101ef2)
+
+### Productos más y menos vendidos
+![Tienda 1](https://github.com/user-attachments/assets/76c26b23-9311-41cf-be9b-4c7a09d41c70)
+![Tienda 2](https://github.com/user-attachments/assets/cc28b63e-edab-4678-9b83-39c14fafd32c)
+![Tienda 3](https://github.com/user-attachments/assets/564910e0-8367-482c-b5d4-acd1326440a7)
+![Tienda 4](https://github.com/user-attachments/assets/cd8d018c-89f0-48eb-b6de-b9e251f073cc)
+
+### Envío promedio por tienda
+![Envios](https://github.com/user-attachments/assets/183c4283-b5ec-45d0-ad22-971ca8749a95)
+
+
+### Grabación de uso
+
+
 ## ✅ Recomendación
 
-La tienda recomendada se detalla y justifica en el archivo `informe.md`, considerando las fortalezas y debilidades encontradas en cada tienda.
+La tienda recomendada para vender se detalla y justifica en el archivo `informe.md`, considerando las fortalezas y debilidades encontradas en cada tienda.
 
 ## 🚀 Tecnologías utilizadas
 
